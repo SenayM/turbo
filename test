@@ -1,2 +1,4 @@
-test file
-
+1, cd /Users/DINO/Desktop/turbo 
+2, git add . 
+3, git commit -m "test commit"
+4, git push
